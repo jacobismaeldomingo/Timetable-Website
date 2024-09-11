@@ -99,10 +99,10 @@ article > h2, section > h3 {
    URL: https://www.w3schools.com/cssref/sel_nth-of-type.asp
    Date Accessed: April 5, 2021
 */
-p:nth-of-type(odd){
+#timetable-data-container > p:nth-of-type(odd){
 	background-color: lightsteelblue;
 }
-p:nth-of-type(even){
+#timetable-data-container > p:nth-of-type(even){
 	background-color: lightyellow;
 }
 
